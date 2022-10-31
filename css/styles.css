@@ -10,6 +10,8 @@ body {
   --blue-clr: #2196F3;
   --black-clr: #000000;
   --black1-clr: #2F303A;
+  --grey-clr:#FFFFFF99
+  --grey1-clr:#757575;
 }
 .webstudio {
   /* position: absolute; */
@@ -69,7 +71,7 @@ body {
   color: #212121;
 }
 
-.font3-style {
+.address-font {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -81,6 +83,23 @@ body {
 
   color:var(--white-clr);
   text-decoration: none;
+}
+
+.address-font2 {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+color:var(--grey-clr);
+}
+
+.address-font3 {
+ 
+  color:var(--grey1-clr)
 }
 
 .font4-style {
