@@ -5,6 +5,12 @@ body {
   color: #212121;
 }
 
+:root {
+  --white-clr: #FFFFFF;
+  --blue-clr: #2196F3;
+  --black-clr: #000000;
+  --black1-clr: #2F303A;
+}
 .webstudio {
   /* position: absolute; */
   width: 145px;
