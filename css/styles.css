@@ -79,7 +79,7 @@ body {
 
   letter-spacing: 0.03em;
 
-  color: #757575;
+  color:var(--white-clr);
   text-decoration: none;
 }
 
