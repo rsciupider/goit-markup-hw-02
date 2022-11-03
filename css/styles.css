@@ -65,6 +65,44 @@ body {
   color: var(--black-clr);
 }
 
+.font-style {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1;
+  letter-spacing: 0.02em;
+
+  color: var(--black-clr);
+}
+
+.font2-style {
+  font-size: 16px;
+  line-height: 1;
+  /* identical to box height */
+
+  /* text-align: center; */
+  letter-spacing: 0.03em;
+
+  color: var(--grey1-clr);
+}
+
+.font3-style {
+  font-size: 16px;
+  line-height: 1.88;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: var(--grey1-clr);
+}
+
+.font4-style {
+font-size: 14px;
+line-height: 1.71;
+/* or 171% */
+letter-spacing: 0.03em;
+color: var(--grey1-clr);
+}
+
 .webstudio {
   /* position: absolute; */
   width: 145px;
@@ -81,15 +119,6 @@ body {
 
   color: var(--black-clr);
   text-decoration: none;
-}
-
-.font-style {
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1;
-  letter-spacing: 0.02em;
-
-  color: var(--black-clr);
 }
 
 .address-font {
@@ -115,27 +144,6 @@ body {
 }
 
 .address-font3 {
-  color: var(--grey1-clr);
-}
-
-.font6-style {
-  font-size: 16px;
-  line-height: 1;
-  /* identical to box height */
-
-  /* text-align: center; */
-  letter-spacing: 0.03em;
-
-  color: var(--grey1-clr);
-}
-
-.font8-style {
-  font-size: 16px;
-  line-height: 1.88;
-  /* identical to box height, or 188% */
-
-  letter-spacing: 0.03em;
-
   color: var(--grey1-clr);
 }
 
